@@ -1,4 +1,4 @@
-# 🚀 E aí, devs? Eu sou a Emy! 👩‍💻
+# E aí, devs? Eu sou a Emy!
 
 💡 **Transformando códigos em soluções reais!**  
 🌍 Travel Designer que decidiu explorar o mundo da programação  
