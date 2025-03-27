@@ -4,7 +4,7 @@
 🌍 Travel Designer que decidiu explorar o mundo da programação  
 🔥 Aprendendo Java e me aventurando pelo back-end  
 
-## 🛠️ Minhas Ferramentas de Sobrevivência
+## Minhas Ferramentas de Sobrevivência
 
 💻 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,12 +18,12 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 Status do Jogo
+## Status do Jogo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmyRaislany&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmyRaislany&layout=compact&theme=tokyonight)
 
-## 📬 Me Ache Aqui
+## Me Ache Aqui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emyllylima/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emyllyraislany@gmail.com)
